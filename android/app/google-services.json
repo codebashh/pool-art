@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "62971402408",
+    "project_id": "pool-art-project",
+    "storage_bucket": "pool-art-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62971402408:android:5adbfd06b73a8658534a9d",
+        "android_client_info": {
+          "package_name": "fr.poolart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62971402408-d48o1pti5krca9ubn8mcsbjipoj0q43s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Hc4qfCR9esoNfWPL-dd20GkWlPvgoKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62971402408-d48o1pti5krca9ubn8mcsbjipoj0q43s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "62971402408-c3djvp4b92cm1th4lahg6t7ft795dv42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "fr.poolart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
